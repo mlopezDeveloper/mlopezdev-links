@@ -29,7 +29,7 @@ def links() -> rx.Component:
         title("Recursos y más"),
         link_button(
             "Portafolio",
-            "Sitio personal",
+            "Mi sitio web",
             "icons/portafolio.svg",
             const.PORTAFOLIO_URL
         ),

@@ -13,7 +13,8 @@ def footer() -> rx.Component:
                         height=Size.VERY_BIG.value,
                         weight=Size.VERY_BIG.value,
                         alt="Logotipo de MLopezDev."
-                    ),   width="100%"
+                    ),
+                    width="100%"
                 ),
                 rx.link(
                     f"© 2019-{datetime.date.today().year} Sitio Por MLopez.",
