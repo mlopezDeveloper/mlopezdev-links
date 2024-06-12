@@ -25,20 +25,25 @@ def header() -> rx.Component:
                 ),
                 rx.hstack(
                     link_icon(
-                        "icons/kick.svg",
+                        "icons/github.svg",
                         const.GITHUB_URL,
                         "github"
                         ),
                     link_icon(
-                        "icons/kick.svg",
+                        "icons/linkedin-in.svg",
                         const.LINKEDIN_URL,
                         "linkedIn"
                         ),
                     link_icon(
-                        "icons/kick.svg",
-                        const.PORTAFOLIO_URL,
-                        "portafolio"
-                        )
+                        "icons/instagram.svg",
+                        const.INSTAGRAM_URL,
+                        "instagram"
+                        ),
+                    link_icon(
+                        "icons/tiktok.svg",
+                        const.TIKTOK_URL,
+                        "tiktok"
+                    )
                 ),
                 align_items="start"
             ),
@@ -47,7 +52,7 @@ def header() -> rx.Component:
         rx.flex(
             info_text("+4","años de experiencia"),
             rx.spacer(),
-            info_text("1","aplicación creada"),
+            info_text("2","aplicación creada"),
             rx.spacer(),
             info_text("0","seguidores"),
             width="100%"
