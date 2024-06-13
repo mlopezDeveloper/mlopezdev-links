@@ -15,7 +15,7 @@ DISCORD_URL = "https://discord.gg/aUvmCD7VHN"
 #Recursos y más
 
 SETUP_URL = ""
-COFEE_URL = ""
+COFEE_URL = "https://buymeacoffee.com/mlopezdev"
 PORTAFOLIO_URL = "https://mlopezdeveloper.github.io/"
 GIST_GITHUB = "https://gist.github.com/mlopezDeveloper"
 
