@@ -1,6 +1,6 @@
 ******************************************************************
                    PROYECTO LINKS MLOPEZDEV
-![Adobe Logo](/assets/captura.png "Hover text")
+<center>![Adobe Logo](/assets/captura.png "Hover text")</center>
 ******************************************************************
                         
                         INSTALACIÓN
