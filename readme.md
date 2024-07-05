@@ -1,6 +1,7 @@
 ******************************************************************               
-<p align="center">PROYECTO LINKS MLOPEZDEV</p>
-
+<div align="center">
+<h1 align="center">PROYECTO LINKS MLOPEZDEV</h1>
+</div>
 
 ![Adobe Logo](/assets/captura.png "Hover text")
 
