@@ -5,8 +5,7 @@
 
 ![Adobe Logo](/assets/captura.png "Hover text")
 
-                        
-                        INSTALACIÓN
+INSTALACIÓN
 
 1. - Entorno virtual - Creación: **py -3 -m venv .venv**  
 1. - Entorno virtual - Ejecución: **.venv\Scripts\activate** (**deactivate** -> para desactivarlo)  
