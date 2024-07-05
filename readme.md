@@ -3,7 +3,7 @@
 <h1 align="center">MLOPEZDEV LINKS</h1>
 </div>
 
-![Adobe Logo](/assets/captura.png "Hover text")
+![Captura proyecto](/assets/captura.png "Reflex")
 
     INSTALACIÓN
 
@@ -21,3 +21,6 @@ Para instalar Requirements.txt -> **pip install -r requirements.txt**
 ******************************************************************
 **FRONTEND** -> http://localhost:3000
 **BACKEND**  -> http://localhost:8000 -> PRUEBA http://localhost:8000/ping
+******************************************************************
+    SITIO OFICIAL DE <a hred="https://reflex.dev/">REFLEX</a>
+******************************************************************
