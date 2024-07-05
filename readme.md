@@ -1,8 +1,6 @@
-******************************************************************
-                   PROYECTO LINKS MLOPEZDEV
-<p align="center">
-Tu código Markdown aquí
-</p>
+******************************************************************               
+<p align="center">PROYECTO LINKS MLOPEZDEV</p>
+
 ![Adobe Logo](/assets/captura.png "Hover text")
 ******************************************************************
                         
