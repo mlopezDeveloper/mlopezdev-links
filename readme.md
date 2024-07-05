@@ -1,6 +1,8 @@
 ******************************************************************
                    PROYECTO LINKS MLOPEZDEV
-                   <p><center>Aquí tu texto, o el Link de la imagen</center></p>
+<p align="center">
+Tu código Markdown aquí
+</p>
 ![Adobe Logo](/assets/captura.png "Hover text")
 ******************************************************************
                         
