@@ -19,8 +19,8 @@ Para instalar Requirements.txt -> **pip install -r requirements.txt**
 ******************************************************************
     URL - LOCAL
 ******************************************************************
-**FRONTEND** -> http://localhost:3000
-**BACKEND**  -> http://localhost:8000 -> PRUEBA http://localhost:8000/ping
+**FRONTEND** -> localhost:3000
+**BACKEND**  -> localhost:8000 -> PRUEBA localhost:8000/ping
 ******************************************************************
-    SITIO OFICIAL DE <a hred="https://reflex.dev/">REFLEX</a>
+    <h1 align="center">SITIO OFICIAL DE <a hred="https://reflex.dev/">REFLEX</a></h1>
 ******************************************************************
