@@ -9,6 +9,8 @@
 5° - Correr proyecto: reflex run
 6° - reflex login
 7° - reflex deploy
+
+Si queremos instalar los del archivo Requirements.txt -> pip install -r requirements.txt
 ******************************************************************
                         URL - local
 ******************************************************************

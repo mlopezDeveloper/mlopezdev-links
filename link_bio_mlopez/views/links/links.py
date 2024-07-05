@@ -8,10 +8,10 @@ def links() -> rx.Component:
     return rx.vstack(
         title("Comunidad"),
         link_button(
-            "Kick",
-            "Transmisiones sobre programación de lunes a viernes (apartir del 17/06/2024)",
+            "Twitch",
+            "Transmisiones sobre programación los dias miercoles, viernes y sabados a las 22:00 ARG",
             "icons/kick.svg",
-            const.KICK_URL
+            const.TWITCH_URL
         ),
         # link_button(
         #     "Youtube",

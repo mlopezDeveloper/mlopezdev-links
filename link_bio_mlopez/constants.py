@@ -8,7 +8,7 @@ LINKEDIN_URL = "https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/"
 
 #Comunidad
 
-KICK_URL= "https://kick.com/marcosdev"
+TWITCH_URL= "https://www.twitch.tv/mlopezdev_"
 YOUTUBE_URL = ""
 DISCORD_URL = "https://discord.gg/aUvmCD7VHN"
 
