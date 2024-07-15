@@ -14,7 +14,7 @@
 1. Correr proyecto: **reflex run**  
 1. Loguearse: **reflex login**  
 1. Hacer el deploy: **reflex deploy**  
-1. Generar .zio: **reflex export --frontend-only**
+1. Generar .zip: **reflex export --frontend-only**
 
 Para instalar Requirements.txt -> **pip install -r requirements.txt**
 ******************************************************************
